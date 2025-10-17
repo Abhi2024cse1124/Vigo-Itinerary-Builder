@@ -25,6 +25,10 @@ html2canvas – captures styled HTML preview for PDF generation
 
 jsPDF – converts captured preview into a downloadable PDF
 
+
+##🔗 Hosted Link: vigo-itinerary-builder.vercel.app
+
+
 ⚙️ Installation
 
 1️⃣ Clone the repository
