@@ -1,4 +1,4 @@
-🧳 Vigovia Itinerary Builder – PDF Generator
+🧳 Vigo Itinerary Builder – PDF Generator
 Description
 
 This project is a frontend itinerary builder that allows users to create a multi-day tour plan and generate a styled PDF output replicating the provided Figma design.
@@ -29,8 +29,8 @@ jsPDF – converts captured preview into a downloadable PDF
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/vigovia-itinerary-builder.git
-cd vigovia-itinerary-builder
+git clone https://github.com/Abhi2024cse1124/Vigo-Itinerary-Builder.git
+cd Vigo-Itinerary-Builder
 
 
 2️⃣ Install dependencies
